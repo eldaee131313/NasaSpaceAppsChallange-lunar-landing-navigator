@@ -47,5 +47,3 @@ Running `main.cpp` on the 30-day lunar cycle dataset (**Nov 14 – Dec 14, 2026*
 - **Multi-Site Comparison Mode:** Allowing mission planners to rank multiple candidate landing sites side-by-side.
 - **Live JPL Horizons API:** Automating direct ephemeris fetching for any custom lunar coordinate and date range.
 
----
-*SI/AI Disclosure: AI tools were used to assist with HTML5 canvas chart rendering, code debugging, and text editing.*
